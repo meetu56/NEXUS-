@@ -1,0 +1,6 @@
+{
+  "name": "Nexus AI",
+  "description": "All-in-one multi-agent operating system and mechanical engineering research workspace inspired by Jarvis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
